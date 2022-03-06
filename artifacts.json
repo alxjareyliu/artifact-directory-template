@@ -1,5 +1,5 @@
 {
-    "this-repository": "https://github.com/DSC-Capstone/artifact-directory-template.git",
+    "this-repository": "https://github.com/alxjareyliu/artifact-directory-template",
     "project-repository": "https://github.com/GogoHYX/DSC180_sleep_apnea",
     "dockerhub-repository": "amfraenkel/fair-policing-project:latest",
     "project-website-url": "https://gogohyx.github.io/DSC180_sleep_apnea/",
