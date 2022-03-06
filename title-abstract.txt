@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+<Time Series Analysis on the Effect of Light Exposure on Sleep Quality>
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+<The increase of artificial light exposure through the increased prevalence of technology has an affect on the sleep cycle and circadian rhythm of humans. The goal of this project is to determine how different colors and intensities of light exposure prior to sleep affects the quality of sleep through the classification of time series data. >
